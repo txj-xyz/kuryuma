@@ -80,5 +80,6 @@ class Settings(
             }
         }
         return loadedJSON // OK return out the JSON
+        // note: need to revamp this, possibly use gson
     }
 }
