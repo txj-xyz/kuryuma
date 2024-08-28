@@ -1,4 +1,8 @@
 {
-    "name": "example-bot",
-    "token": "example-bot-token"
+    "name": "default-bot-name",
+    "token": "default-bot-token",
+    "information": {
+        "statusMessage": "default-bot-status-message"
+    },
+    "modules": []
 }
